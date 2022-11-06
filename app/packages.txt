@@ -1,0 +1,12 @@
+# if deploying shiny based applications:
+shiny
+shinydashboard
+shinythemes
+shinyWidgets
+shinybusy
+shinyalert
+shinycssloaders
+ggplot2
+plotly
+wesanderson
+DT
